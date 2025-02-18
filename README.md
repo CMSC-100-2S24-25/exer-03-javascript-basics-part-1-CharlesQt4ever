@@ -14,6 +14,8 @@ Section: C-1L
 
 ## Key takeaways from this exercise
 
-Using Java Script as a programming language is fun and exciting things to do.
+Using JavaScript as a programming language is a fun and exciting thing to do. I appreciate more the use of loops and boolean flags.
 
 ## References
+- https://www.w3schools.com/jsref/jsref_switch.asp
+- https://www.youtube.com/watch?v=W6NZfCO5SIk
