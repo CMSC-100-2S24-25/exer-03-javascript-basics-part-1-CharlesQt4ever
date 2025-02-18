@@ -14,5 +14,6 @@ Section: C-1L
 
 ## Key takeaways from this exercise
 
+Using Java Script as a programming language is fun and exciting things to do.
 
 ## References
